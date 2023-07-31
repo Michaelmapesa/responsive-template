@@ -1,4 +1,12 @@
 .sect1{
-    background-image: url(images/background.jpeg);
-    width: 90%;
+    background-image: url(https://images.pexels.com/photos/175717/pexels-photo-175717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.sect2{
+    text-align: center;
+    height: 350px;
 }
